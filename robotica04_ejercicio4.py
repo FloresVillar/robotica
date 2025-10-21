@@ -5,3 +5,4 @@ np.set_printoptions(precision = 4, suppress = True)
 H =T4(3,0,2) @ Ry4(90) @ Rx4(-30)
 print(H)
 #la traslacion por la izd, respecto al fijo !
+#es traslacion primero, luego rotacion respecto al movil dos veces

@@ -1,3 +1,19 @@
+## clase 04 
+
+- ejercicio04 
+![imagen](imagenes/robotica04_ejercicio4.jpeg)
+
+- ejercicio05 
+![imagen]( imagenes/5.jpeg)
+
+
+- ejercicio6
+![imagen](imagenes/6.jpeg)
+
+- ejercicio7
+![imagen](imagenes/7.jpeg)
+
+
 ## Clase 05 Cuaternios
 Un cuertenio una representación matemática que describe una rotación <br>
 
